@@ -26,3 +26,6 @@ https://docs.expo.dev/versions/latest/sdk/splash-screen/
 `expo install expo-splash-screen`
 
 `expo install expo-font`
+
+## Tutorial
+https://youtu.be/Kghri8te-hk
